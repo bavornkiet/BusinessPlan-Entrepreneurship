@@ -4,7 +4,7 @@
 
 - **Carson** – BUCS ID: hcm51
 - **Ascend** – BUCS ID: [Insert BUCS ID]
-- **Noah** – BUCS ID: [Insert BUCS ID]
+- **Noah** – BUCS ID: nm2159
 - **Bill** – BUCS ID: [Insert BUCS ID]
 - **Loc** – BUCS ID: [Insert BUCS ID]
 - **TK** – BUCS ID: [Insert BUCS ID]
