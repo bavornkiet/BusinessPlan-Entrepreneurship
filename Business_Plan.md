@@ -9,7 +9,7 @@
 - **Loc** – BUCS ID: [Insert BUCS ID]
 - **TK** – BUCS ID: [Insert BUCS ID]
 - **Mark** – BUCS ID: [Insert BUCS ID]
-- **John** – BUCS ID: [Insert BUCS ID]
+- **Johnricky Espinosa** – BUCS ID: je655
 
 **Team Logo:**  
 ![Team Logo](path/to/logo.png)
