@@ -7,8 +7,8 @@
 - **Noah** – BUCS ID: nm2159
 - **Bill** – BUCS ID: [Insert BUCS ID]
 - **Loc** – BUCS ID: lt852
-- **TK** – BUCS ID: [Insert BUCS ID]
-- **Mark** – BUCS ID: [Insert BUCS ID]
+- **TK** – BUCS ID: tk747
+- **Mark** – BUCS ID: pw684
 - **Johnricky Espinosa** – BUCS ID: je655
 
 ---
