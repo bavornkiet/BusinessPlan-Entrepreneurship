@@ -2,14 +2,14 @@
 
 **Team Members and BUCS Identifiers**
 
-- **Carson** – BUCS ID: hcm51
-- **Ascend** – BUCS ID: aj2307
-- **Noah** – BUCS ID: nm2159
-- **Bill** – BUCS ID: [Insert BUCS ID]
-- **Loc** – BUCS ID: lt852
-- **TK** – BUCS ID: tk747
-- **Mark** – BUCS ID: pw684
-- **Johnricky Espinosa** – BUCS ID: je655
+- **Carson** – hcm51
+- **Ascend** – aj2307
+- **Noah** – nm2159
+- **Bavornkiet Charnpatanakorn** – bc940
+- **Loc Tran** – lt852
+- **Thipok Kijwanichprasert** – tk747
+- **Puripat Wongpadungkiet** – pw684
+- **Johnricky Espinosa** – je655
 
 ---
 
