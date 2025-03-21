@@ -115,7 +115,7 @@ Users may try to fake step counts or manipulate data which could affect the appâ
 
 ## 1.3: Visual Concept of product
 
-Here are several visual concept designs of the application to act as a preview of the application's look with according to the features presented earlier:
+Here are several visual concept designs of the application to act as a preview of the application's look, designed according to the features presented earlier:
 ![alt text](SpdjpQaPcT.png)
 ![alt text](mcFER2rxJR.png)
 ![alt text](uUq1kcA4X1.png)
