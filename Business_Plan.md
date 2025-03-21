@@ -153,7 +153,7 @@ The market research survey was conducted using an online questionnaire aimed at 
 
 In the **Current Fitness & App Usage** section, respondents indicated varied usage of fitness apps with 6 using daily, 4 several times a week, 3 once a week, and 7 rarely or never. The averaged daily step count reported was between 3,000 and 6,000 steps, suggesting moderate physical activity levels among students. When asked about challenges in maintaining a regular exercise, the most common issues were a lack of motivation or discipline (7 respondents) and not having clear goals or effective progress tracking (5 respondents). This shows the need for an engaging fitness platform that encourages consistent exercise.
 
-![alt text](graph1.png)  
+![alt text](Graphs/survey1figure.png)  
 *Figure 1: Description of graph 1.*
 
 In the **Monetisation and Wagering System** section, the survey results showed that users would likely participate in the wagering system, with 12 respondents indicating ‘Yes’, 5 ‘Maybe’ and 3 ‘No’. Preferences for daily wagers varied, with a significant number comfortable with either no wager or amounts under £0.50. Respondents also showed a positive attitude towards micro-transactions for additional benefits, suggesting the monetisation strategies could be successfully integrated into the app. 
