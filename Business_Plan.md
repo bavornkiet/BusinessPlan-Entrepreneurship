@@ -157,15 +157,11 @@ U.S. digital health funding has also seen significant growth reaching USD 17.2 b
 
 ![alt text](graph4.png)  
 <p align="center">
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="graph1.png" alt="Description 1" width="200" />
-    <figcaption>Figure 1: Caption for image 1</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="graph2.png" alt="Description 2" width="200" />
-    <figcaption>Figure 2: Caption for image 2</figcaption>
-  </figure>
+  <img src="graph1.png" alt="Image 1" width="30%" />
+  <img src="graph2.png" alt="Image 2" width="30%" />
+  <img src="path_to_image3" alt="Image 3" width="30%" />
 </p>
+
 
 *Figure 4:*
 
