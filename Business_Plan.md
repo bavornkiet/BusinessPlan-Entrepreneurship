@@ -380,6 +380,7 @@ In addition to this, users must also agree to a privacy policy, which is necessa
 - Mustafa, Abdulsalam & Ali, Nor'Ashikin & Dhillon, Jaspaljeet Singh & Alkawsi, Gamal & Mohamed, Yahia. (2022). *User Engagement and Abandonment of mHealth: A Cross-Sectional Survey*. Healthcare. 10. 221. 10.3390/healthcare10020221.
 - Akhila Mathai. (2025). *How Gamification Makes Fitness Apps Fun and Engaging.* [Mindster Blogs](https://mindster.com/mindster-blogs/gamification-fitness-apps-engagement/)
 - Pitchbook. (2025). *Fitness Application Market Valuation.* [Pitchbook](https://pitchbook.com)
+- GameAnalytics. (2019). *Mobile Gaming Benchmarks* [GameAnalytics](https://investgame.net/wp-content/uploads/2023/06/H1-2019-Mobile-Benchmarks-Report-GameAnalytics.pdf)
 - Consagoustech. (2022). *Home Workouts & Fitness Apps are Relevant Post-Pandemic?* [Medium](https://medium.com/@itsconsagous/home-workouts-fitness-apps-are-relevant-post-pandemic-299577b8ae20)
 - Iseazy. (2025). *How to use rewards in gamification to power up your training.* [Iseazy Blog](https://www.iseazy.com/blog/how-use-rewards-gamification/)
 - Allied Market Research. (2022). *Healthcare Gamification Market Size, Share, Competitive Landscape and Trend Analysis Report, by Game Type, By Application, By End User: Global Opportunity Analysis and Industry Forecast, 2021-2031.* [Allied Market Research](https://www.alliedmarketresearch.com/healthcare-gamification-market)
