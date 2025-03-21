@@ -400,3 +400,173 @@ In addition to this, users must also agree to a privacy policy, which is necessa
 - Zombiesrungame. (2022). *Ten Years of Zombies, Run!.* [Zombies, Run Blog](https://blog.zombiesrungame.com/2022/03/30/ten-years-of-zombies-run/)
 - Go F Do It. (2025). [Go F Do It](https://gofuckingdoit.com/)
 - University of Bath. (2025). *Working with your Student visa.* [University of Bath](https://www.bath.ac.uk/guides/working-with-your-student-visa/)
+
+## Appendix
+### Survey:  
+
+#### Introduction:  
+Thank you for participating in our survey. We are exploring the concept of a mobile app that motivates physical activity by requiring users to wager a small amount of money on reaching daily step goals. In this app, you can earn a virtual currency either by walking (i.e., completing your step goals) or by purchasing it with real money. Your feedback will help us understand user preferences and refine the app’s design. This survey should take about 5–10 minutes.  
+
+---
+
+#### Section 1: Current Fitness & App Usage  
+
+**1. How often do you use fitness or health tracking apps?**  
+- Daily  
+- Several times a week  
+- Once a week  
+- Rarely/Never  
+
+**2. Approximately how many steps do you take on an average day?**  
+- Less than 3,000  
+- 3,000–6,000  
+- 6,000–10,000  
+- More than 10,000  
+
+**3. What do you find most challenging about maintaining a regular exercise regimen?**  
+- Lack of Motivation or discipline  
+- Not having a clear goal or progress tracking.  
+- Time Constraints  
+- Boredom with repetitive workout  
+- Other  
+
+---
+
+#### Section 2: Monetisation and Wagering System  
+
+**4. If an app allowed you to wager a small amount of money on achieving a daily step goal (with the risk of losing it if you fail), how likely would you be to participate?**  
+(Scale: 1 = Not at all, 5 = very likely)  
+- 1  
+- 2  
+- 3  
+- 4  
+- 5  
+
+**5. Would you consider using an app that requires you to wager money on your physical activity?**  
+- Yes  
+- No  
+- Maybe (Please explain in the comments below)  
+
+**6. What amount would you feel comfortable wagering per day (if any)?**  
+- No wager  
+- Less than £0.50  
+- £0.50 – £1.00  
+- £1.00 – £2.00  
+- More than £2.00  
+- Other (please specify): __________  
+
+**7. How do you feel about apps that offer additional benefits—such as skipping waiting times, unlocking special features, or accelerating progress—through micro-transactions (small real-money payments)?**  
+- Very Comfortable – frequently make in-app purchases and prefer having these options  
+- Somewhat Comfortable – I occasionally make purchases if the benefit feels worth it.  
+- Neutral  
+- Somewhat uncomfortable  
+
+---
+
+#### Section 3: Gamification & Virtual Currency  
+
+**8. Would you be interested in an app that turns walking into a game by allowing you to build and develop your own virtual city?**  
+- Yes  
+- No  
+
+**9. How appealing are the following features for you (Rate each on a scale of 1-5)**  
+- Built-in step counter that converts steps to virtual currency that you can use to purchase in-game virtual buildings.  
+- Daily login and task completion streak rewards  
+- City-building mini-game where you can purchase roads and buildings  
+- Guild or friend-based leaderboards for social competition  
+
+**10. How important is gamification (e.g., points, levels, challenges) to keep you motivated to exercise?**  
+(Scale: 1 = Not important, 5 = Extremely important)  
+- 1  
+- 2  
+- 3  
+- 4  
+- 5  
+
+**11. Which of the following gamified features would increase your interest in using such an app? (Select all that apply)**  
+- Leaderboards or rankings among friends  
+- Achievement badges and rewards  
+- In-app challenges or competitions  
+- Social sharing of achievements  
+- Customizable avatars or profiles  
+- Other (please specify): __________  
+
+**12. How do you balance the appeal of earning in-game currency through walking versus the option to buy premium currency with real money?**  
+- I strongly prefer earning all currency through walking (I value free progression and am not interested in paying for accelerated progress)  
+- I mostly prefer earning currency through walking but appreciate having an option to purchase a small amount occasionally. (Free Progression is key, but a bit of paid acceleration in a pinch)  
+- I value both options equally (I’m comfortable with earning through walking and using real money for faster progress)  
+- I lean towards buying premium currency to accelerate progress while still enjoying some free rewards. (I like having control over speeding things up with paid options, even if I earn some currency through walking.)  
+- I prefer purchasing premium currency because it saves time. (Paid progression is my preferred method as I value speed over free progression)  
+
+---
+
+#### Section 4: Perceived Value and Concerns  
+
+**13. What concerns do you have about an app that involves wagering money for fitness goals?**  
+(Select all that apply)  
+- Risk of losing money  
+- Overemphasis on competition might reduce enjoyment  
+- Privacy or security concerns regarding payments  
+- Complexity of managing in-app currency  
+- Possible negative impact on intrinsic motivation  
+- No concerns  
+- Other (please specify): __________  
+
+---
+
+#### Section 5: Demographics and Lifestyle  
+
+**14. Age:**  
+- Under 18  
+- 18–24  
+- 25–34  
+- 35–44  
+- 45–54  
+- 55–64  
+- 65 or older  
+
+**15. Gender:**  
+- Male  
+- Female  
+- Non-binary/Other  
+- Prefer not to say  
+
+**16. Occupation:**  
+- Student  
+- Professional  
+
+**17. Do you currently use any paid fitness or health apps?**  
+- Yes  
+- No  
+
+**18. How would you describe your current lifestyle?**  
+- Sedentary  
+- Moderately Active  
+- Very Active  
+
+---
+
+#### Section 6: Social and Competitive Aspects  
+
+**Purpose:** Validate the importance of social engagement in your product’s success. Understand if features like leaderboards, guilds, and friend comparisons are compelling motivators.
+
+**19. How often do you engage with social features (e.g., leaderboards, social media sharing, guilds) in your current apps?**  
+- Regularly  
+- Occasionally  
+- Rarely  
+- Never  
+
+**20. How important is competition with friends or peers in motivating you to perform better in a fitness app?**  
+(Scale rating: Not important to extremely important.)  
+
+**21. Would you be more inclined to use an app if you could join a guild or community that challenges you to reach common goals?**  
+- Yes  
+- No  
+
+**22. What additional social features would you like to see in a fitness and gamification app?**  
+(Open-ended to capture creative ideas or unmet needs.)  
+
+---
+
+#### Thank you for your time and insights!  
+Your feedback is crucial in helping us design an engaging and effective fitness app.
