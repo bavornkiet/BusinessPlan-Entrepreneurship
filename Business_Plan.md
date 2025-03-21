@@ -107,11 +107,11 @@ The game enables user to wage real money; however, some users might have concern
 
 ### 1.2.2: Balancing Dual Currency Economics
 
-The dual currency system (standard and premium) may create a pay-to-win environment, where non-paying or lower-paying users feel disadvantaged and unable to access high-value rewards or items. To mitigate this risk, periodic events with milestones rewards are introduced, allowing users to earn free premium items upon completing quests. This ensures fair progression and gives non-paying players an opportunity to access premium items.
+There is a potential scenario where the dual currency system creates a pay-to-win environment that renders the game unenjoyable for some players. The lower-paying users are then disadvantaged and are unable to access high-value rewards or items. To mitigate this risk, periodic events with milestones rewards are introduced. This allows users to earn free premium items upon completing quests and therefore ensures fair progression and gives non-paying players an opportunity to access premium items.
 
 ### 1.2.3: Cheating and System Integrity
 
-Users may try to fake step counts or manipulate data, which could affect the app’s accuracy and fairness. To prevent this, multiple sensors are used to detect any inconsistencies in step data. Furthermore, Server-side analytics and machine learning algorithms are used to identify unusual activity patterns. Lastly, routine data checks and a community reporting system are also implemented to ensure integrity and fairness of the game.
+Users may try to fake step counts or manipulate data which could affect the app’s accuracy and fairness. To prevent help this, multiple sensors are used to detect any inconsistencies in step data which provides an added layer of protection. Furthermore, Server-side analytics and machine learning algorithms are used to identify unusual activity patterns. Routine data checks and a community reporting system are also implemented to ensure integrity and fairness of the game.
 
 ## 2: Market Section
 
