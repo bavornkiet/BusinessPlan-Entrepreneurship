@@ -3,7 +3,7 @@
 **Team Members and BUCS Identifiers**
 
 - **Carson** – BUCS ID: hcm51
-- **Ascend** – BUCS ID: [Insert BUCS ID]
+- **Ascend** – BUCS ID: aj2307
 - **Noah** – BUCS ID: nm2159
 - **Bill** – BUCS ID: [Insert BUCS ID]
 - **Loc** – BUCS ID: lt852
