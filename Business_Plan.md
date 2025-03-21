@@ -149,17 +149,24 @@ U.S. digital health funding has also seen significant growth reaching USD 17.2 b
 
 ### 2.2 Survey Findings
 
+The market research survey was conducted using an online questionnaire aimed at students aged between 18 to 24 and was designed to obtain objective, quantifiable data on user habits and preferences. The survey was distributed through the University of Bath’s student networks. 
 
-*Figure 2:*
+In the **Current Fitness & App Usage** section, respondents indicated varied usage of fitness apps with 6 using daily, 4 several times a week, 3 once a week, and 7 rarely or never. The averaged daily step count reported was between 3,000 and 6,000 steps, suggesting moderate physical activity levels among students. When asked about challenges in maintaining a regular exercise, the most common issues were a lack of motivation or discipline (7 respondents) and not having clear goals or effective progress tracking (5 respondents). This shows the need for an engaging fitness platform that encourages consistent exercise.
 
-![alt text](graph3.png)  
-*Figure 3:*
+![alt text](graph1.png)  
+*Figure 1: Description of graph 1.*
 
-![alt text](survey1.png)  
+In the **Monetisation and Wagering System** section, the survey results showed that users would likely participate in the wagering system, with 12 respondents indicating ‘Yes’, 5 ‘Maybe’ and 3 ‘No’. Preferences for daily wagers varied, with a significant number comfortable with either no wager or amounts under £0.50. Respondents also showed a positive attitude towards micro-transactions for additional benefits, suggesting the monetisation strategies could be successfully integrated into the app. 
 
+The **Gamification & Virtual Currency** section, majority (16 respondents) expressed interest in an app that transforms walking into a game by allowing users to build a virtual city. Key features such as a built-in step counter that converts steps into virtual currency, city-building mini-games, and social leaderboards, received high ratings (mostly 4 out of 5), daily login rewards scored slightly lower (median of 3). In terms of the currency economy, 13 respondents strongly preferred earning all currency through walking, showing a clear preference for free progression over spending money, though some are open to mixed methods. 
 
+In the **Perceived Value and Concerns** section, a few respondents (3) were concerned about the risk of losing money, 5 expressed privacy or security concerns, and 8 indicated that such a system might negatively affect intrinsic motivation. Nevertheless, 4 respondents reported no concerns, suggesting that these issues can be mitigated with careful implementation. 
 
-*Figure 4:*
+The **Demographics and Lifestyle** section, the results confirmed that the target audience are predominantly young, male students who are moderately active. Only 6 out of 20 currently use paid fitness apps, highlighting an opportunity for a free-to-play model with optional in-app purchases. 
+
+Lastly, the **Social and Competitive Aspects** of the survey highlighted the importance of community engagement. Most respondents (13) regularly use social features in apps, and a significant 14 rated competition with friends as extremely important. 18 respondents indicated they would join a guild or community that challenges them to reach common goals. 
+
+Overall, the survey findings present a cohesive picture of a market and evidence suggests that a product which combines free progression with optional in-app purchases, social competition, and clear goal-setting features could meet a genuine market need. These hard facts, gathered objectively from our targeted audience, validate the potential market success of our proposed app. 
 
 ### 2.2: Main Competitors
 
