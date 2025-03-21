@@ -40,5 +40,3 @@ If you are experiencing group issues, please reach out as soon as possible—we 
 ---
 
 ## Notes
-
-Ascend did not submit any work and has gone radio silent as we discussed the contributions. We have tried to contact him multiple times and had assigned tasks on product section for him to complete, but only met with response of “I will try to get something done/uploaded” which ended up committing nothing and constantly being extremely hard to contact. We have no choice but giving him 0% for he committed no work to this project.
