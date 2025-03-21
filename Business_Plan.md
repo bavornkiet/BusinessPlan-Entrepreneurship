@@ -2,9 +2,9 @@
 
 **Team Members and BUCS Identifiers**
 
-- **Carson** – hcm51
-- **Ascend** – aj2307
-- **Noah** – nm2159
+- **Carson Mak** – hcm51
+- **Ascend Jiang** – aj2307
+- **Noah Mazrani** – nm2159
 - **Bavornkiet Charnpatanakorn** – bc940
 - **Loc Tran** – lt852
 - **Thipok Kijwanichprasert** – tk747
