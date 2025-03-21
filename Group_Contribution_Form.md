@@ -30,10 +30,10 @@ If you are experiencing group issues, please reach out as soon as possible—we 
 | Ho Ching Mak                | 14%                         |            Ho Ching Mak        |
 | Puripat Wongpadungkiet      | 13.5%                         |     Puripat Wongpadungkiet                |
 | Bavornkiet Charnpatanakorn  | 13.5%                         |     Bavornkiet Charnpatanakorn              |
-| Johnricky Espinosa          | 10%                         |           Johnricky Espinosa              |
+| Johnricky Espinosa          | 10.5%                         |           Johnricky Espinosa              |
 | Thipok Kijwanichprasert     | 13.5%                         |      Thipok Kijwanichprasert          |
 | Loc Tran                    | 12.5%                         |       Loc Tran            |
-| Ascend Jiang                | 11%                          |               Ascend Jiang    |
+| Ascend Jiang                | 10%                          |               Ascend Jiang    |
 
 **Total:** 100%
 
