@@ -1,6 +1,6 @@
 # CITY WALK
 
-**Team Members and BUCS Identifiers**
+**Team Members**
 
 - **Carson Mak** – hcm51
 - **Ascend Jiang** – aj2307
