@@ -26,14 +26,14 @@ If you are experiencing group issues, please reach out as soon as possible—we 
 
 | Group Member Name           | Percentage Contribution (%) | Signature         |
 |-----------------------------|-----------------------------|-------------------|
-| Noah Mazrani                | 14%                         | Noah Mazrani      |
-| Ho Ching Mak                | 16%                         |            Ho Ching Mak        |
-| Puripat Wongpadungkiet      | 15%                         |     Puripat Wongpadungkiet                |
-| Bavornkiet Charnpatanakorn  | 15%                         |     Bavornkiet Charnpatanakorn              |
-| Johnricky Espinosa          | 11%                         |           Johnricky Espinosa              |
-| Thipok Kijwanichprasert     | 15%                         |      Thipok Kijwanichprasert          |
-| Loc Tran                    | 14%                         |       Loc Tran            |
-| Ascend Jiang                | 0%                          |               Ascend Jiang    |
+| Noah Mazrani                | 13%                         | Noah Mazrani      |
+| Ho Ching Mak                | 15%                         |            Ho Ching Mak        |
+| Puripat Wongpadungkiet      | 14%                         |     Puripat Wongpadungkiet                |
+| Bavornkiet Charnpatanakorn  | 14%                         |     Bavornkiet Charnpatanakorn              |
+| Johnricky Espinosa          | 10%                         |           Johnricky Espinosa              |
+| Thipok Kijwanichprasert     | 14%                         |      Thipok Kijwanichprasert          |
+| Loc Tran                    | 13%                         |       Loc Tran            |
+| Ascend Jiang                | 7%                          |               Ascend Jiang    |
 
 **Total:** 100%
 
