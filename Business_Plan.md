@@ -113,6 +113,14 @@ There is a potential scenario where the dual currency system creates a pay-to-wi
 
 Users may try to fake step counts or manipulate data which could affect the app’s accuracy and fairness. To prevent help this, multiple sensors are used to detect any inconsistencies in step data which provides an added layer of protection. Furthermore, Server-side analytics and machine learning algorithms are used to identify unusual activity patterns. Routine data checks and a community reporting system are also implemented to ensure integrity and fairness of the game.
 
+## 1.3: Visual Concept of product
+
+Here are several visual concept designs of the application to act as a preview of the application's look with according to the features presented earlier:
+![alt text](SpdjpQaPcT.png)
+![alt text](mcFER2rxJR.png)
+![alt text](uUq1kcA4X1.png)
+![alt text](wk2x0cANc2.png)
+
 ## 2: Market Section
 
 ### 2.1: Market Research Questions
