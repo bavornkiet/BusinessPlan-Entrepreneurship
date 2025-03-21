@@ -116,10 +116,10 @@ Users may try to fake step counts or manipulate data which could affect the app�
 ## 1.3: Visual Concept of product
 
 Here are several visual concept designs of the application to act as a preview of the application's look, designed according to the features presented earlier:
-![alt text](SpdjpQaPcT.png)
-![alt text](mcFER2rxJR.png)
-![alt text](uUq1kcA4X1.png)
-![alt text](wk2x0cANc2.png)
+![alt text](Graphs/SpdjpQaPcT.png)
+![alt text](Graphs/mcFER2rxJR.png)
+![alt text](Graphs/uUq1kcA4X1.png)
+![alt text](Graphs/wk2x0cANc2.png)
 
 ## 2: Market Section
 
@@ -150,15 +150,16 @@ U.S. digital health funding has also seen significant growth reaching USD 17.2 b
 ### 2.2 Survey Findings
 
 The market research survey was conducted using an online questionnaire aimed at students aged between 18 to 24 and was designed to obtain objective, quantifiable data on user habits and preferences. The survey was distributed through the University of Bath’s student networks. 
-
-In the **Current Fitness & App Usage** section, respondents indicated varied usage of fitness apps with 6 using daily, 4 several times a week, 3 once a week, and 7 rarely or never. The averaged daily step count reported was between 3,000 and 6,000 steps, suggesting moderate physical activity levels among students. When asked about challenges in maintaining a regular exercise, the most common issues were a lack of motivation or discipline (7 respondents) and not having clear goals or effective progress tracking (5 respondents). This shows the need for an engaging fitness platform that encourages consistent exercise.
-
 ![alt text](Graphs/survey1figure.png)  
+In the **Current Fitness & App Usage** section, respondents indicated varied usage of fitness apps with 6 using daily, 4 several times a week, 3 once a week, and 7 rarely or never, as shown in Figure 2. The averaged daily step count reported was between 3,000 and 6,000 steps, suggesting moderate physical activity levels among students. When asked about challenges in maintaining a regular exercise, the most common issues were a lack of motivation or discipline (7 respondents) and not having clear goals or effective progress tracking (5 respondents). This shows the need for an engaging fitness platform that encourages consistent exercise.
+
+
+![alt text](Graphs/survey2figure.png)  
 *Figure 1: Description of graph 1.*
 
-In the **Monetisation and Wagering System** section, the survey results showed that users would likely participate in the wagering system, with 12 respondents indicating ‘Yes’, 5 ‘Maybe’ and 3 ‘No’. Preferences for daily wagers varied, with a significant number comfortable with either no wager or amounts under £0.50. Respondents also showed a positive attitude towards micro-transactions for additional benefits, suggesting the monetisation strategies could be successfully integrated into the app. 
+In the **Monetisation and Wagering System** section, the survey results showed that users would likely participate in the wagering system, with 12 respondents indicating ‘Yes’, 5 ‘Maybe’ and 3 ‘No’. Preferences for daily wagers varied, with a significant number comfortable with either no wager or amounts under £0.50, as shown in Figure 3. Respondents also showed a positive attitude towards micro-transactions for additional benefits, suggesting the monetisation strategies could be successfully integrated into the app. 
 
-The **Gamification & Virtual Currency** section, majority (16 respondents) expressed interest in an app that transforms walking into a game by allowing users to build a virtual city. Key features such as a built-in step counter that converts steps into virtual currency, city-building mini-games, and social leaderboards, received high ratings (mostly 4 out of 5), daily login rewards scored slightly lower (median of 3). In terms of the currency economy, 13 respondents strongly preferred earning all currency through walking, showing a clear preference for free progression over spending money, though some are open to mixed methods. 
+The **Gamification & Virtual Currency** section, majority (16 respondents) expressed interest in an app that transforms walking into a game by allowing users to build a virtual city. Key features such as a built-in step counter that converts steps into virtual currency, city-building mini-games, and social leaderboards, received high ratings (mostly 4 out of 5), daily login rewards scored slightly lower (median of 3). In terms of the currency economy, 13 respondents strongly preferred earning all currency through walking, showing a clear preference for free progression over spending money, though some are open to mixed methods,as shown in Figure 1. 
 
 In the **Perceived Value and Concerns** section, a few respondents (3) were concerned about the risk of losing money, 5 expressed privacy or security concerns, and 8 indicated that such a system might negatively affect intrinsic motivation. Nevertheless, 4 respondents reported no concerns, suggesting that these issues can be mitigated with careful implementation. 
 
