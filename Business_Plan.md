@@ -548,8 +548,6 @@ Thank you for participating in our survey. We are exploring the concept of a mob
 
 #### Section 6: Social and Competitive Aspects  
 
-**Purpose:** Validate the importance of social engagement in your product’s success. Understand if features like leaderboards, guilds, and friend comparisons are compelling motivators.
-
 **19. How often do you engage with social features (e.g., leaderboards, social media sharing, guilds) in your current apps?**  
 - Regularly  
 - Occasionally  
