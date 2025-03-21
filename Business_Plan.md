@@ -147,6 +147,20 @@ The healthcare gamification market is also expanding rapidly. Valued at USD 3.3 
 
 U.S. digital health funding has also seen significant growth reaching USD 17.2 billion in 2024 (Galen Growth, 2024). This surge in funding highlights growing investor confidence in digital health innovations.
 
+### 2.2 Survey Findings
+
+![alt text](graph1.png)  
+*Figure 1:*
+
+![alt text](graph2.png)  
+*Figure 2:*
+
+![alt text](graph3.png)  
+*Figure 3:*
+
+![alt text](graph4.png)  
+*Figure 4:*
+
 ### 2.2: Main Competitors
 
 #### Zombies, Run! (Direct Competitor)
