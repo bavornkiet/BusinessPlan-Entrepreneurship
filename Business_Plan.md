@@ -155,7 +155,7 @@ In the **Current Fitness & App Usage** section, respondents indicated varied usa
 
 
 ![alt text](Graphs/survey2figure.png)  
-*Figure 1: Description of graph 1.*
+
 
 In the **Monetisation and Wagering System** section, the survey results showed that users would likely participate in the wagering system, with 12 respondents indicating ‘Yes’, 5 ‘Maybe’ and 3 ‘No’. Preferences for daily wagers varied, with a significant number comfortable with either no wager or amounts under £0.50, as shown in Figure 3. Respondents also showed a positive attitude towards micro-transactions for additional benefits, suggesting the monetisation strategies could be successfully integrated into the app. 
 
