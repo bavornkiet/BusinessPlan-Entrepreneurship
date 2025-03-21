@@ -28,11 +28,11 @@ Additionally, to create social engagement and competitiveness, CITY WALK allows 
 ### 1.1.1: Customer’s Pains and Gains
 
 - **Pains:**
-  - Lack of motivation to engage in light exercises (Ebben 2008) (Hongu et al. 2018)
-  - Too lazy to walk (Hongu et al. 2018)
-  - Inconsistency in maintaining exercise routines (Ebben 2008)
-  - Walking is boring and lack engagement (Ettema 2015) (Hongu et al. 2018)
-  - Lack of clear goal to determine amount of physical activity (Hongu et al. 2018)
+  - Lack of motivation to engage in light exercises (Ebben, 2008) (Hongu et al., 2018)
+  - Too lazy to walk (Hongu et al., 2018)
+  - Inconsistency in maintaining exercise routines (Ebben, 2008)
+  - Walking is boring and lack engagement (Ettema, 2015) (Hongu et al., 2018)
+  - Lack of clear goal to determine amount of physical activity (Hongu et al., 2018)
 
 - **Value Proposition:**
   - CITY WALK encourages and motivates people in committing to physical activities and light exercises through gamification elements and competition between friends and guilds.
@@ -95,9 +95,9 @@ Additionally, to create social engagement and competitiveness, CITY WALK allows 
     - Users can see the combined progress of their own guild and other guilds worldwide.
   - **Between Friends leaderboard:**
     - Display registered friends’ city, progress and achievements.
-  - Create a sense of competitiveness between players to wishes to better out the other (Hamari et al. 2017)
+  - Create a sense of competitiveness between players to wishes to better out the other (Hamari et al., 2017)
     - Motivates to compete for a better progress.
-    - Opponents acts as a goal for player to reach and beat to create sense of accomplishment, which satisfy competence in self-determination theory (Ryan et al. 2000).
+    - Opponents acts as a goal for player to reach and beat to create sense of accomplishment, which satisfy competence in self-determination theory (Ryan et al., 2000).
 
 ## 1.2: Challenges and Risk Mitigation
 
