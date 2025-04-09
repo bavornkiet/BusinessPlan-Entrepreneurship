@@ -22,5 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         assertEquals("cm40179g3.citywalker", appContext.getPackageName());
+        // PUSH THIS BITCH
     }
 }
