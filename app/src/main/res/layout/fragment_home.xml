@@ -1,13 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
-    android:orientation="vertical">
+    android:padding="16dp">
 
-    <TextView
+    <!-- Circular Progress Background -->
+    <FrameLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true">
+
+        <!-- Outer progress ring (background) -->
+        <ImageView
+            android:id="@+id/circle_background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/circle_background"/>
+
+        <!-- Progress bar that fills up -->
+        <ProgressBar
+            android:id="@+id/progress_ring"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:indeterminate="false"
+            android:max="10000"
+            android:progress="0"
+            android:progressDrawable="@drawable/circular_progress"
+            android:rotation="-90"/>
+
+        <!-- Step count text -->
+        <TextView
+            android:id="@+id/tv_step_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="0"
+            android:textSize="48sp"
+            android:textColor="@color/black"/>
+
+        <!-- Target text (smaller, below main count) -->
+        <TextView
+            android:id="@+id/tv_target"
+            android:layout_width="wrap_content"
+            android:layout_height="94dp"
+            android:layout_gravity="center|bottom"
+            android:layout_marginTop="100dp"
+            android:text="No target set"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+
+    </FrameLayout>
+
+    <!-- Settings Button at bottom -->
+    <Button
+        android:id="@+id/btn_settings"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Home Screen"
-        android:textSize="24sp" />
-</LinearLayout>
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:text="@string/set_walk_goal"
+        android:paddingHorizontal="32dp"
+        android:paddingVertical="16dp"
+        android:textSize="18sp"/>
+
+</RelativeLayout>
