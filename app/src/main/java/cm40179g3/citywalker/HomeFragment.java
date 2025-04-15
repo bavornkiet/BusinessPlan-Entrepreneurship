@@ -73,6 +73,10 @@ public class HomeFragment extends Fragment {
 
         // Save state
         saveState();
+        Fragment shopFragment = getParentFragmentManager().findFragmentByTag("shop_fragment");
+        if (shopFragment instanceof ShopFragment) {
+            ((ShopFragment) shopFragment).incrementStepsCurrency();
+        }
     }
 
     private void updateUI() {

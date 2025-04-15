@@ -19,4 +19,8 @@
     <string name="steps_hint">e.g. 10000</string>
     <string name="no_date_selected">Please select a date</string>
     <string name="date_selected">Selected: %1$s</string>
+    <string name="purchase_confirmation">Do you want to buy this item?</string>
+    <string name="not_enough_currency">Not enough currency</string>
+    <string name="purchased_item">Purchased: %1$s</string>
+    <string name="premium_shop_title">Get Premium Currency</string>
 </resources>
