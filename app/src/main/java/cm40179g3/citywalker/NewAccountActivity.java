@@ -20,7 +20,11 @@ import androidx.fragment.app.DialogFragment;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.UserProfileChangeRequest;
+import com.google.firebase.firestore.FirebaseFirestore;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Objects;
 import java.util.regex.Pattern;
 
 import cm40179g3.citywalker.util.InputValidationException;
@@ -56,6 +60,7 @@ public class NewAccountActivity extends AppCompatActivity {
     private Button btnCreate;
     private Button btnBack;
     private FirebaseAuth auth;
+    private FirebaseFirestore firestore;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,6 +74,7 @@ public class NewAccountActivity extends AppCompatActivity {
         });
 
         auth = FirebaseAuth.getInstance();
+        firestore = FirebaseFirestore.getInstance();
 
         txtEmail = findViewById(R.id.new_account_txtEmail);
         txtDisplayName = findViewById(R.id.new_account_txtDisplayName);
@@ -116,8 +122,31 @@ public class NewAccountActivity extends AppCompatActivity {
                 .setDisplayName(name)
                 .build())
                 .addOnCompleteListener(task -> {
-                    // Go to main activity
-                    Toast.makeText(this, "Account successfully created!", Toast.LENGTH_SHORT).show();
+                    if (task.isSuccessful()) {
+                        Toast.makeText(this, "Account successfully created!", Toast.LENGTH_SHORT).show();
+                    } else {
+                        Exception e = task.getException();
+                        assert e != null;
+                        Toast.makeText(this, e.getMessage(), Toast.LENGTH_SHORT).show();
+                        Log.w("NewAccountActivity", "Failed to set display name", e);
+                    }
+                    createUserDocument(user);
+                });
+    }
+
+    private void createUserDocument(FirebaseUser user) {
+        Map<String, Object> userData = new HashMap<>();
+        userData.put("steps", 0);
+
+        firestore.collection("Users")
+                .document(user.getUid())
+                .set(userData)
+                .addOnCompleteListener(task -> {
+                    if (!task.isSuccessful()) {
+                        Exception e = task.getException();
+                        assert e != null;
+                        Log.w("NewAccountActivity", "Failed to set display name", e);
+                    }
                     startActivity(new Intent(this, MainActivity.class));
                 });
     }
