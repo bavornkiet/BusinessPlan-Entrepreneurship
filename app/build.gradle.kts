@@ -1,10 +1,12 @@
 plugins {
     alias(libs.plugins.androidApplication)
+
+    id("com.google.gms.google-services")
 }
 
 android {
     namespace = "cm40179g3.citywalker"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "cm40179g3.citywalker"
@@ -35,6 +37,15 @@ android {
 }
 
 dependencies {
+
+    implementation(libs.credentials)
+
+    // optional - needed for credentials support from play services, for devices running
+    // Android 13 and below.
+    implementation(libs.credentialsPlayServices)
+
+    implementation(platform("com.google.firebase:firebase-bom:33.12.0"))
+    implementation("com.google.firebase:firebase-analytics")
 
     implementation(libs.appcompat)
     implementation(libs.material)
