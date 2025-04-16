@@ -135,6 +135,7 @@ public class NewAccountActivity extends AppCompatActivity {
     private void createUserDocument(FirebaseUser user) {
         Map<String, Object> userData = new HashMap<>();
         userData.put("steps", 0);
+        userData.put("displayName", user.getDisplayName());
 
         firestore.collection("Users")
                 .document(user.getUid())
