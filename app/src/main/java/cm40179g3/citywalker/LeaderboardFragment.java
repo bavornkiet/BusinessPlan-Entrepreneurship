@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.fragment.app.Fragment;
 
@@ -26,6 +27,7 @@ import java.util.Locale;
 public class LeaderboardFragment extends Fragment {
 
     private final List<LeaderboardEntry> entries;
+    private View view;
     private FirebaseUser user;
     private FirebaseFirestore db;
     private LeaderboardEntryAdapter adapter;
@@ -39,7 +41,7 @@ public class LeaderboardFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        View view = inflater.inflate(R.layout.fragment_leaderboard, container, false);
+        view = inflater.inflate(R.layout.fragment_leaderboard, container, false);
         adapter = new LeaderboardEntryAdapter(view.getContext(), entries);
         txtRank = view.findViewById(R.id.leaderboard_txtRank);
         user = FirebaseAuth.getInstance().getCurrentUser();
@@ -59,6 +61,9 @@ public class LeaderboardFragment extends Fragment {
     }
 
     private void refreshLeaderboard() {
+        Toast toast = Toast.makeText(view.getContext(), "Loading leaderboard...", Toast.LENGTH_SHORT);
+        toast.show();
+
         entries.clear();
         db.collection("Users").get().addOnCompleteListener(task -> {
             List<DocumentSnapshot> docs = task.getResult().getDocuments();
@@ -83,6 +88,8 @@ public class LeaderboardFragment extends Fragment {
                 }
             }
             adapter.notifyDataSetChanged();
+            toast.cancel();
+            Toast.makeText(view.getContext(), "Leaderboard updated!", Toast.LENGTH_SHORT).show();
         });
     }
 
