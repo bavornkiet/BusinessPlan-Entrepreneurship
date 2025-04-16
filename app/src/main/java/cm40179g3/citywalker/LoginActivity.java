@@ -67,7 +67,7 @@ public class LoginActivity extends AppCompatActivity {
                     FirebaseUser user = auth.getCurrentUser();
                     assert user != null;
 
-                    Toast.makeText(this, "Welcome to City Walk, " + user.getDisplayName() + "!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(this, "Welcome back to City Walk, " + user.getDisplayName() + "!", Toast.LENGTH_SHORT).show();
                     startActivity(new Intent(this, MainActivity.class));
                 } else {
                     Exception e = task.getException();

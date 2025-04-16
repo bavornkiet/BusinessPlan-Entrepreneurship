@@ -122,9 +122,7 @@ public class NewAccountActivity extends AppCompatActivity {
                 .setDisplayName(name)
                 .build())
                 .addOnCompleteListener(task -> {
-                    if (task.isSuccessful()) {
-                        Toast.makeText(this, "Account successfully created!", Toast.LENGTH_SHORT).show();
-                    } else {
+                    if (!task.isSuccessful()) {
                         Exception e = task.getException();
                         assert e != null;
                         Toast.makeText(this, e.getMessage(), Toast.LENGTH_SHORT).show();
@@ -142,7 +140,9 @@ public class NewAccountActivity extends AppCompatActivity {
                 .document(user.getUid())
                 .set(userData)
                 .addOnCompleteListener(task -> {
-                    if (!task.isSuccessful()) {
+                    if (task.isSuccessful()) {
+                        Toast.makeText(this, "Welcome to City Walk, " + user.getDisplayName(), Toast.LENGTH_SHORT).show();
+                    } else {
                         Exception e = task.getException();
                         assert e != null;
                         Log.w("NewAccountActivity", "Failed to set display name", e);
