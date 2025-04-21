@@ -28,7 +28,7 @@ And to deepen motivation and commitment, CITY WALK introduces an optional real-m
 - **Motivation through incentives**: Real-money stakes add an extra layer of commitment for those who want it. 
 - **Free and accessible**: No upfront payment, NFTs, or paywalls. Just walk, earn, and play. 
 
-## Sustainability and Business Model
+### Sustainability and Business Model
 
 CITY WALK is designed for everyday users, from students who struggle to find motivation to walk more, to casual walkers seeking more engagement, and even older adults looking for light physical activity with a purpose. It fits seamlessly into existing routines: users walk as usual, and the app quietly tracks progress and rewards it. Whether it’s a walk to university, a daily dog walk, or a weekend stroll, the app turns mundane activity into a game with real value.
 
@@ -115,7 +115,7 @@ There’s no single way to play, CITY WALK allows users to choose their pace, th
 
 ### Our Position in the Market
 
-CITY WALK is the only fitness app that brings together city-building gameplay, flexible wagering, and social interaction in a frictionless, rewarding way. We don’t just track movement—we transform it into a motivating, social, and creative experience, combining the habit-building power of fitness apps with the engagement of casual mobile games. And we do it without alienating anyone through high costs, steep learning curves, or niche themes.
+CITY WALK is the only fitness app that brings together city-building gameplay, flexible wagering, and social interaction in a frictionless, rewarding way. We don’t just track movement, we transform it into a motivating, social, and creative experience, combining the habit-building power of fitness apps with the engagement of casual mobile games. And we do it without alienating anyone through high costs, steep learning curves, or niche themes.
 
 ---
 
