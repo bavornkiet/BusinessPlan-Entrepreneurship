@@ -1,5 +1,15 @@
 # CITY WALK – Business Execution Report
 
+**Team Members**
+
+- **Carson Mak** – hcm51
+- **Ascend Jiang** – aj2307
+- **Noah Mazrani** – nm2159
+- **Bavornkiet Charnpatanakorn** – bc940
+- **Loc Tran** – lt852
+- **Thipok Kijwanichprasert** – tk747
+- **Puripat Wongpadungkiet** – pw684
+- **Johnricky Espinosa** – je655
 ---
 
 ## Our Value Proposition
@@ -18,8 +28,6 @@ And to deepen motivation and commitment, CITY WALK introduces an optional real-m
 - **Motivation through incentives**: Real-money stakes add an extra layer of commitment for those who want it. 
 - **Free and accessible**: No upfront payment, NFTs, or paywalls. Just walk, earn, and play. 
 
----
-
 ## Sustainability and Business Model
 
 CITY WALK is designed for everyday users—from students who struggle to find motivation to walk more, to casual walkers seeking more engagement, and even older adults looking for light physical activity with a purpose. It fits seamlessly into existing routines: users walk as usual, and the app quietly tracks progress and rewards it. Whether it’s a walk to university, a daily dog walk, or a weekend stroll, the app turns mundane activity into a game with real value.
@@ -34,5 +42,3 @@ CITY WALK operates on a **freemium model**, offering all core features for free 
 This model ensures broad accessibility while generating revenue in a user-friendly, ethical way. There are no barriers to entry. Instead, our monetisation grows as users find value and choose to engage more deeply.
 
 The app also has potential for **social impact** by helping users build healthier habits in a non-intimidating and fun way. CITY WALK contributes to both physical and mental wellbeing. It encourages movement, creates positive feedback loops, and builds community—key pillars in addressing sedentary lifestyles.
-
----
