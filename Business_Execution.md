@@ -18,7 +18,7 @@ CITY WALK is a gamified fitness app that turns daily walking into a fun, rewardi
 
 Unlike traditional fitness apps that often rely on repetitive goals, generic achievements, or passive tracking, CITY WALK integrates a fun and interactive city-building mechanic that gives users a visually satisfying sense of progress—each building they unlock is a symbol of their physical effort. 
 
-And to deepen motivation and commitment, CITY WALK introduces an optional real-money wagering system, where users can stake small amounts on meeting their daily step goals. If they succeed, they earn premium virtual rewards. This feature is designed to encourage follow-through without pressure—it is completely optional, risk-managed, and reinforces positive behaviour.
+And to deepen motivation and commitment, CITY WALK introduces an optional real-money wagering system, where users can stake small amounts on meeting their daily step goals. If they succeed, they earn premium virtual rewards. This feature is designed to encourage follow-through without pressure and it is completely optional, risk-managed, and reinforces positive behaviour.
 
 ### Key Differentiators from Other Fitness Apps
 
@@ -30,7 +30,7 @@ And to deepen motivation and commitment, CITY WALK introduces an optional real-m
 
 ## Sustainability and Business Model
 
-CITY WALK is designed for everyday users—from students who struggle to find motivation to walk more, to casual walkers seeking more engagement, and even older adults looking for light physical activity with a purpose. It fits seamlessly into existing routines: users walk as usual, and the app quietly tracks progress and rewards it. Whether it’s a walk to university, a daily dog walk, or a weekend stroll, the app turns mundane activity into a game with real value.
+CITY WALK is designed for everyday users, from students who struggle to find motivation to walk more, to casual walkers seeking more engagement, and even older adults looking for light physical activity with a purpose. It fits seamlessly into existing routines: users walk as usual, and the app quietly tracks progress and rewards it. Whether it’s a walk to university, a daily dog walk, or a weekend stroll, the app turns mundane activity into a game with real value.
 
 CITY WALK operates on a **freemium model**, offering all core features for free with optional microtransactions. These include:
 
@@ -41,4 +41,44 @@ CITY WALK operates on a **freemium model**, offering all core features for free 
 
 This model ensures broad accessibility while generating revenue in a user-friendly, ethical way. There are no barriers to entry. Instead, our monetisation grows as users find value and choose to engage more deeply.
 
-The app also has potential for **social impact** by helping users build healthier habits in a non-intimidating and fun way. CITY WALK contributes to both physical and mental wellbeing. It encourages movement, creates positive feedback loops, and builds community—key pillars in addressing sedentary lifestyles.
+The app also has potential for social impact by helping users build healthier habits in a non-intimidating and fun way. CITY WALK contributes to both physical and mental wellbeing. It encourages movement, creates positive feedback loops, and builds community. These are all the key pillars in addressing sedentary lifestyles.
+
+## How Does CITY WALK Work?
+
+CITY WALK is designed around a simple, motivating core loop that turns physical activity into tangible progress through gamification.
+
+### Core Gameplay
+
+- The app tracks your daily steps. For every **1,000 steps walked**, users earn **“Step Coins”**, the in-app virtual currency.
+- This creates a direct feedback loop: **Walk more, Earn more, Build more**.
+- Users spend Step Coins to unlock and place **buildings, parks, and landmarks** in their own virtual city, creating a unique and visual representation of their fitness journey.
+
+### Optional Real-Money Wagering for Premium Rewards
+
+For users looking for an extra push, CITY WALK includes an optional, low-stakes wagering feature:
+
+- Users can **wager small amounts of real money** on hitting a **daily step goal**.
+- Upon success, they earn **premium currency**, which can be exchanged for **exclusive digital rewards**, such as rare buildings or city expansions.
+- If the goal is not met, the wagered amount is forfeited, providing **risk-managed accountability** while still being entirely voluntary.
+
+### Integrated Social & Community Features
+
+CITY WALK turns walking into a shared experience with built-in social mechanics:
+
+- **Leaderboards**: Track and compare progress with friends, local users, or global players.
+- **Team-Based Challenges**: Join walking teams and collaborate toward shared goals.
+- **Guilds**: Form small communities, unlock group-based milestones, and benefit from mutual encouragement and accountability.
+
+These features are designed to increase motivation through **friendly competition**, **social support**, and **collective achievements**.
+
+### Freemium, Accessible, and Ethical Monetisation
+
+CITY WALK follows a **freemium model** that prioritises inclusivity and fair design:
+
+- **Free users** have full access to:
+  - Step tracking
+  - City building
+  - Social features
+  - Base-level progression
+
+No essential features are locked behind paywalls. Monetisation is built to enhance, not restrict, the user experience—ensuring that users can play meaningfully without ever needing to pay.
