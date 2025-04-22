@@ -12,6 +12,90 @@
 - **Johnricky Espinosa** – je655
 ---
 
+## Who is the customer? 
+
+In 2024, the eServices Fitness market in the UK saw 15.61 million users for apps. (Statistia)
+
+This section will detail the categories of users that we are targeting. 
+
+CITY WALK is designed for:  
+
+Young adults (18-35) who enjoy interactive, gamified experiences and need motivation to stay active.  
+
+Casual fitness enthusiasts (35-50) seeking additional encouragement to maintain a regular walking routine.  
+
+Users who struggle with motivation, goal-setting, or engagement in traditional fitness apps. 
+
+The ideal customer for CITY WALK should be able to identify themselves quickly and determine if the app is relevant to their needs. The app is designed to be accessible to a wide range of users who want to stay active and enjoy casual social competition.  
+ 
+
+## Young Adults (18-25) 
+ 
+Lifestyle and Motivation: Users in this age bracket are often juggling busy schedules such as university timetables or careers, CITY WALK can be incorporated into this lifestyle as a user moves about during their day.The gamification also keeps the concept fresh and applicable for consistent daily use. 
+
+Why They Need CITY WALK: The app’s built-in features such as wagering and city-building minigame keep walking / running interesting. By wagering small amounts of money users can stay accountable while competing with friends.  
+
+Use Cases:  
+
+A young adult may observe their friend move above them in the leaderboard and go on a extra walk to overtake them.  
+
+A young adult may choose to walk to a class rather than take the car / bus. 
+
+A young adult may choose to walk to the supermarket rather than take the car / bus. 
+ 
+To complete your required number of steps a young adult may go on an extra walk and get a coffee rather than sit in their room and watch tv. 
+
+If a young adult was working in the city, they may choose to walk to a meeting rather than use public transportation to achieve their step goals.  
+ 
+## Casual Fitness Enthusiasts (35-50) 
+
+Lifestyle and Motivation: This category of user will typically have a fitness routine but may still desire an extension to it or a fresh way to incorporate fitness at all times. When balancing family life with fitness and work, they may look for tools that provide variety in achieving fitness goals.  
+
+Why They Need CITY WALK: The step counter integrates well with everyday activities outside of their usual routine and acts as an extension that can stimulate the fitness mind further.  
+ 
+Use Cases: 
+
+A casual enthusiast may choose to monitor their steps throughout daily life for instance shopping to meet step goals. 
+
+A casual enthusiast may compete with work colleagues and family members to maintain health and fitness throughout a less active period of their lives. 
+
+A casual enthusiast may involve family on a casual walk to boost their step count and unlock more building within the gamification feature. 
+
+
+## Users Lacking Traditional Motivation 
+
+Lifestyle and Motivation: These individuals may have tried numerous other fitness apps and not found them effective and lost interest due to a lack of tangible excitement and progress. They may want an interactive environment to keep them hooked.  
+ 
+
+Why They Need CITY WALK: By blending real world achievements with fun game mechanics CITY WALK offers a structure for activity that other platforms don’t offer.  
+
+
+Use Cases: 
+
+A person who is usually relatively inactive may choose to attempt a smaller challenge to begin their fitness journey. As they achieve their goals they can slowly increase their aims and expectations of themselves.  
+
+The challenge of motivation can be addressed through wagering money, these small sums can kickstart their journey into a more active lifestyle that could potentially become habit.  
+
+A user who usually lacks the solo motivation to exercise may wish to compete against friends to enhance their motivation to exercise as a collective.  
+
+A person who is usually inactive may be inspired to continue their fitness journey by observing their progress in the gamified world. This is where CITY WALK provides a service over and above other applications as the gamification can maintain user engagement over a longer period of time.  
+
+ 
+
+## Relevance and Appeal 
+ 
+CITY WALK’s dynamic blend of activity tracking, optional money wagers, and city-building resonates with users who appreciate a balance of fun, accountability, and tangible rewards. Whether someone seeks casual, everyday encouragement or thrives on peer-to-peer competition, the app’s flexible structure caters to a broad spectrum of potential customers. 
+
+In the future, there is scope to expand toward older adults, corporate wellness programs, and even tourism-based gamification (e.g., unlocking local landmarks in the app). Initially, however, the focus remains on these core user segments who are most likely to appreciate the casual-competitive dynamic the app provides. 
+
+## Long-Term Potential and Future Expansion 
+
+Initially targeting these core demographics establishes a robust user base that benefits directly from CITY WALK’s innovative approach to fitness motivation. However, the app’s design inherently supports future expansion to broader user groups, such as older adults seeking accessible fitness options tailored to varying mobility levels. Corporate wellness programs present another avenue for growth, with CITY WALK providing organizations an engaging platform for promoting employee health through friendly departmental competitions and collective challenges. 
+
+Tourism-based gamification offers substantial potential, transforming city exploration into a dynamic fitness experience by integrating local landmarks and cultural highlights within the app. Users could unlock special rewards or content upon physically visiting iconic sites, thereby enriching both their fitness routines and their tourist experience. Such expansions could significantly broaden CITY WALK’s appeal, ensuring sustained growth and enhanced user engagement over time. 
+
+In conclusion, CITY WALK effectively addresses diverse fitness needs through its carefully designed features, appealing directly to its identified user groups while retaining flexibility for future growth. Its blend of accountability, social engagement, and gamified incentives positions it uniquely within the eServices Fitness market, poised to attract and retain a wide-ranging and loyal user base. 
+
 ## Our Value Proposition
 
 CITY WALK is a gamified fitness app that turns daily walking into a fun, rewarding, and socially connected experience. At its core, it transforms each step into a meaningful action, by converting physical activity into a virtual currency that users spend to build and personalise a digital city. This blend of movement and game mechanics helps users stay motivated, accountable, and consistent in their fitness routines. 
@@ -128,3 +212,6 @@ CITY WALK is the only fitness app that brings together city-building gameplay, f
 - Orin, A. (2014). Behind the app: The story of Zombies, Run!. https://lifehacker.com/behind-the-app-the-story-of-zombies-run-1632445358
 
 - Hendelmann, V. (2022). How does Sweatcoin make money? Dissecting its business model. https://productmint.com/sweatcoin-business-model-how-does-sweatcoin-make-money/
+
+- https://www.statista.com/forecasts/891120/eservices-fitness-users-by-segment-in-the-united-kingdom#:~:text=The%20number%20of%20users%20experiences,broad%20range%20of%20additional%20markets.
+
