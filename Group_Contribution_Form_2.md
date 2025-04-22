@@ -28,10 +28,10 @@ If you are experiencing group issues, please reach out as soon as possible—we 
 |-----------------------------|-----------------------------|-------------------|
 | Noah Mazrani                | 12.5%                         | Noah Mazrani      |
 | Ho Ching Mak                | 12.5%                         | Ho Ching Mak      |
-| Puripat Wongpadungkiet      | 12.5%                       | Puripat Wongpadungkiet       |
-| Bavornkiet Charnpatanakorn  | 12.5%                       | Bavornkiet Charnpatanakorn   |
+| Puripat Wongpadungkiet      | 12%                       | Puripat Wongpadungkiet       |
+| Bavornkiet Charnpatanakorn  | 13.5%                       | Bavornkiet Charnpatanakorn   |
 | Johnricky Espinosa          | 12.5%                       | Johnricky Espinosa           |
-| Thipok Kijwanichprasert     | 12.5%                       | Thipok Kijwanichprasert      |
+| Thipok Kijwanichprasert     | 12%                       | Thipok Kijwanichprasert      |
 | Loc Tran                    | 12.5%                         | Loc Tran           |
 | Ascend Jiang                | 12.5%                         | Ascend Jiang       |
 
