@@ -89,7 +89,7 @@ public class LeaderboardFragment extends Fragment {
             }
             adapter.notifyDataSetChanged();
             toast.cancel();
-            Toast.makeText(view.getContext(), "Leaderboard updated!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(view.getContext(), "Leaderboard refreshed!", Toast.LENGTH_SHORT).show();
         });
     }
 
