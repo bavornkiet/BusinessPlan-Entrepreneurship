@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180116591005",
+    "project_id": "cm40179g3",
+    "storage_bucket": "cm40179g3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180116591005:android:7f51429cb36316e0419f74",
+        "android_client_info": {
+          "package_name": "cm40179g3.citywalker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGa7friAfhjvg6scMgUqjQSBmm78YhvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

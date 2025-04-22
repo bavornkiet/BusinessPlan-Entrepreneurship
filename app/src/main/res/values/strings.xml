@@ -23,4 +23,6 @@
     <string name="not_enough_currency">Not enough currency</string>
     <string name="purchased_item">Purchased: %1$s</string>
     <string name="premium_shop_title">Get Premium Currency</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
