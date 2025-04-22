@@ -12,6 +12,8 @@ https://computingservices-my.sharepoint.com/:f:/g/personal/bc940_bath_ac_uk/EgsQ
 
 # City Walk Video
 
-Since we can't upload the video to GitHub because it's too big, we've uploaded it to Panopto.
+The City Walk video is now available on GitHub and also on Panopto as a backup.
+📁 **GitHub Link**  
+`CITY WALK VIDEO.mp4`
 
 🔗 [Watch the video here on Panopto](https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0a28ca57-869c-496c-b6a3-b2c700de05ef)
