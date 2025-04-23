@@ -14,7 +14,7 @@
 
 ## Who is the customer? 
 
-In 2024, the eServices Fitness market in the UK saw 15.61 million users for apps. (Statistia)
+In 2024, the eServices Fitness market in the UK saw 15.61 million users for apps (Statistia, 2025).
 
 This section will detail the categories of users that we are targeting. 
 
@@ -295,5 +295,4 @@ CITY WALK is the only fitness app that brings together city-building gameplay, f
 
 - Hendelmann, V. (2022). How does Sweatcoin make money? Dissecting its business model. https://productmint.com/sweatcoin-business-model-how-does-sweatcoin-make-money/
 
-- https://www.statista.com/forecasts/891120/eservices-fitness-users-by-segment-in-the-united-kingdom#:~:text=The%20number%20of%20users%20experiences,broad%20range%20of%20additional%20markets.
-
+- Statista Research Department. (2025). Forecast for the number of online users in the eServices Fitness market in the United Kingdom from 2017 to 2024. Statista. https://www.statista.com/forecasts/891120/eservices-fitness-users-by-segment-in-the-united-kingdom
