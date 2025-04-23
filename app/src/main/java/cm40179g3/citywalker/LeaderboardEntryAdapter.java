@@ -1,59 +1,54 @@
 package cm40179g3.citywalker;
 
 import android.content.Context;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import java.util.List;
-import java.util.Locale;
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
 
-public class LeaderboardEntryAdapter extends BaseAdapter {
+import java.util.ArrayList;
 
-    private final Context context;
-    private final List<LeaderboardEntry> entries;
+class LeaderboardEntryAdapter extends RecyclerView.Adapter<LeaderboardEntryAdapter.MyViewHolder> {
+    Context context;
+    ArrayList<LeaderboardEntry> leaderboardEntries;
 
-    public LeaderboardEntryAdapter(Context context, List<LeaderboardEntry> entries) {
+    public LeaderboardEntryAdapter(Context context, ArrayList<LeaderboardEntry> leaderboardEntries) {
         this.context = context;
-        this.entries = entries;
+        this.leaderboardEntries = leaderboardEntries;
+    }
+
+    @NonNull
+    @Override
+    public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+        LayoutInflater inflater = LayoutInflater.from(context);
+        View view = inflater.inflate(R.layout.leaderboard_entry, parent, false);
+        return new MyViewHolder(view);
     }
 
     @Override
-    public int getCount() {
-        return entries.size();
+    public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
+        holder.ranking.setText(String.valueOf(leaderboardEntries.get(position).getUid()));
+        holder.name.setText(leaderboardEntries.get(position).getDisplayName());
+        holder.numSteps.setText(String.valueOf(leaderboardEntries.get(position).getNumSteps()));
     }
 
     @Override
-    public Object getItem(int position) {
-        return entries.get(position);
+    public int getItemCount() {
+        return leaderboardEntries.size();
     }
 
-    @Override
-    public long getItemId(int position) {
-        return position;
-    }
+    public static class MyViewHolder extends RecyclerView.ViewHolder {
+        TextView ranking, name, numSteps;
 
-    @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
-        if (convertView == null) {
-            convertView = LayoutInflater.from(context)
-                    .inflate(R.layout.item_leaderboard_entry, parent, false);
+        public MyViewHolder(@NonNull View itemView) {
+            super(itemView);
+
+            ranking = itemView.findViewById(R.id.ranking);
+            name = itemView.findViewById(R.id.name);
+            numSteps = itemView.findViewById(R.id.steps);
         }
-
-        LeaderboardEntry entry = entries.get(position);
-
-        TextView txtRank     = convertView.findViewById(R.id.leaderboard_entry_txtRank);
-        TextView txtName     = convertView.findViewById(R.id.leaderboard_entry_txtName);
-        TextView txtNumSteps = convertView.findViewById(R.id.leaderboard_entry_txtNumSteps);
-
-        txtRank.setText(String.format(Locale.getDefault(), "%d", 1 + position));
-        txtName.setText(entry.getDisplayName());
-        txtNumSteps.setText(String.format(Locale.getDefault(), "%d steps", entry.getNumSteps()));
-
-        return convertView;
     }
-
 }
