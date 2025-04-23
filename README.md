@@ -2,12 +2,13 @@
 
 This repository contains the business plan for our Entrepreneurship coursework at University of Bath for the academic year 2024/2025. The coursework constitutes 50% of the overall grade and requires our team to develop a comprehensive business plan for a startup, detailing our product/service, market validation, and strategy for market entry.
 # First Submission Documents
-Our business proposal report is located in the file: `Business_plan.md`
+Our business proposal report for the first submission is located in the file: `Business_plan.md`
 
 Our group contribution form for the first submission (Business Report) is located in the file: `Group_Contribution_Form_.md`
 # Second Submission Documents
-Our group contribution form for the second submission (Execution Report) is located in the file: `Group_Contribution_Form_2.md`
+Our Business Execution report for the second submission is load in the file `Business_Execution.md`
 
+Our group contribution form for the second submission (Execution Report) is located in the file: `Group_Contribution_Form_2.md`
 # Our OneDrive Link to all our Notes
 
 https://computingservices-my.sharepoint.com/:f:/g/personal/bc940_bath_ac_uk/EgsQ8NzydLdCvKpy3s1wBYkBmSHHVZF0x17_7IgxaP26OA?e=uMwWPR
